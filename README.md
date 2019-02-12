@@ -22,4 +22,5 @@ Lab:
 - https://github.com/jcrouser/islr-python
 
 Exercise: 
-- http://blog.princehonest.com/stat-learning/ - https://rpubs.com/ppaquay/
+- http://blog.princehonest.com/stat-learning/ 
+- https://rpubs.com/ppaquay/
