@@ -16,11 +16,10 @@ The code, or the answers have been taken directly from the below mentioned repos
 REFERENCE:
 
 Notes: 
-1) https://github.com/JWarmenhoven/ISLR-python
+- https://github.com/JWarmenhoven/ISLR-python
 
 Lab: 
-2) https://github.com/jcrouser/islr-python
+- https://github.com/jcrouser/islr-python
 
 Exercise: 
-3) http://blog.princehonest.com/stat-learning/
-4) https://rpubs.com/ppaquay/
+- http://blog.princehonest.com/stat-learning/ - https://rpubs.com/ppaquay/
